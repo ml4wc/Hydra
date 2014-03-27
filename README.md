@@ -2,10 +2,6 @@ Hydra-Multi - an SV discovery tool that incorporates hundreds of samples
 =======================================================================
 
 #Overview
-
-1. Generate a config file.
-==========================
-=======
 Hydra-Multi is a paired-end read structural variant discovery tool that is capable of integrating signals from hundreds of samples.
 
 #Installation
